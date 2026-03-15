@@ -9,7 +9,7 @@ The goal is to document practical techniques, tooling, and experiments related t
 
 ### Scripts
 
-Automation for common security and analysis tasks.
+Automation for common security and analysis tasks. [EXAMPLE](https://github.com/ElidioColonnaPXL/infosec-wiki/blob/main/scripts/encryption/manualfreq.py)
 
 ### Exploits
 
