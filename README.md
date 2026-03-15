@@ -1,7 +1,7 @@
 # infosec-wiki
 
 A structured repository containing **security scripts, research notes, exploits, and walkthroughs**.
-The goal is to document practical techniques, tooling, and experiments related to **cybersecurity and offensive security**.
+The goal is to document practical techniques, tooling, and experiments 
 
 ---
 
